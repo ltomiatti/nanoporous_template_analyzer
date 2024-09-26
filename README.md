@@ -1,2 +1,12 @@
 # nanoporous_template_analyzer
-This repository include different released versions of software "Nanoporous Template Analyzer" that I developed.
+This repository includes different released versions of software "Nanoporous Template Analyzer" that I developed.
+
+Requirements to Nanoporous Template Analyzer 1 work properly:
+1. Python 3.X.
+2. Microsoft Visual C++ 14.0 or greater (get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/). Select "C++ build tools" during installation.
+3. jes4py package (https://pypi.org/project/jes4py/).
+4. pillow package (https://pypi.org/project/pillow/).
+
+Copyright: Leonardo Tomiatti
+Last update: 26-09-2024
+Release date: 26-09-2024
