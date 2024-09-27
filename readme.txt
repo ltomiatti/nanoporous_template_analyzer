@@ -8,5 +8,5 @@ Requirements to Nanoporous Template Analyzer 1 work properly:
 4. pillow package (https://pypi.org/project/pillow/).
 
 Copyright: Leonardo Tomiatti
-Last update: 26-09-2024
+Last update: 27-09-2024
 Release date: 26-09-2024
